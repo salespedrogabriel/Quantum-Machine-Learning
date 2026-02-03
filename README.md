@@ -3,7 +3,7 @@
 * **Semester:** 2026.1
 * **Supervisor:** Leonardo Mendonza
 * **Start Date:** February 3rd
-* **End Date:**
+* **End Date:** April 14th
 * **Group Members:**
   * Pedro Gabriel Serodio Sales
 
