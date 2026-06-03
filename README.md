@@ -21,3 +21,11 @@
 * Class 11: Quantum RI
 * Class 12: Quantum Cloud
 
+## Academic Integrity Notice
+The work in this repository represents my solutions to the Quantum Machine Learning Course.
+
+* Use it to **learn**, not to **copy**
+* Understand the logic before applying similar approaches
+* Remember that struggling with a problem is part of the learning process
+
+*Current students, respect your course's academic integrity policies.*
